@@ -19,7 +19,7 @@ Here you'll find some of my personal projects and contributions. Feel free to ex
 
 About Me
 - 🎓 Currently pursuing masters in Computer science specializing in Artificial Intelligence. 
-- 💼 Working student in Mercedes Benz AG
+- 💼 Teaching Assistant of the course `Automated Machine Learning` at the University of Freiburg
 - 🌱 Working Deep learning, Automated machine learning, Reinforcement Learning.
 - 💬 Ask me about AI or software development :)
 - 📫 How to reach me:
