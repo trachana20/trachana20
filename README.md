@@ -1,29 +1,15 @@
-## Hi, I'm Rachana! 👋
+## Hi, I'm Rachana! 👋  
 
-<!--
-**trachana20/trachana20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about **Artificial Intelligence Research, Reinforcement Learning, and Deep Learning**. With a strong foundation in software development, I enjoy building innovative solutions that leverage AI to solve complex real-world problems.  
 
-Here are some ideas to get you started:
+Here you’ll find some of my personal projects and open-source contributions. Feel free to explore — I’d love to hear your feedback or collaborate on exciting ideas! 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm deeply passionate about artificial intelligence, reinforcement learning, and deep learning. With a strong foundation in software development, I enjoy creating innovative solutions that leverage AI to solve complex problems. My journey in technology has equipped me with valuable experience in designing and developing robust software systems.
-Here you'll find some of my personal projects and contributions. Feel free to explore and reach out if you have any questions or suggestions.
+### About Me  
+- 🎓 Master’s student in **Computer Science (AI specialization)** at the University of Freiburg  
+- 💼 **Teaching Assistant** for the course *Automated Machine Learning*  
+- 🌱 Currently working on **Reinforcement Learning and AutoML**  
+- 💬 Always happy to chat about **AI and research**  
+- 📫 How to reach me:  
+  - [LinkedIn](https://www.linkedin.com/in/trachana/)  
 
-About Me
-- 🎓 Currently pursuing masters in Computer science specializing in Artificial Intelligence. 
-- 💼 Teaching Assistant of the course `Automated Machine Learning` at the University of Freiburg
-- 🌱 Working Deep learning, Automated machine learning, Reinforcement Learning.
-- 💬 Ask me about AI or software development :)
-- 📫 How to reach me:
-
-- LinkedIn: [Rachana Tirumanyam](https://www.linkedin.com/in/trachana/)
-- Website: 
-- Feel free to connect with me! Let's learn and grow together. 😊
+✨ Let’s connect, collaborate, and grow together in the AI journey!  
